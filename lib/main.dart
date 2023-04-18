@@ -28,7 +28,7 @@ class _QuotesState extends State<Quotes> {
     return  Scaffold(
       backgroundColor: Colors.green[100],
       appBar: AppBar(
-        backgroundColor: Colors.green[600],
+        backgroundColor: Colors.green[700],
         title: const Padding(
           padding: EdgeInsets.all(12.0),
           child: Text(
