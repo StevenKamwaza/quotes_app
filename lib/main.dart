@@ -4,6 +4,7 @@ import 'qoute_card.dart';
 
 void main() {
   runApp(const MaterialApp(
+    debugShowCheckedModeBanner: false,
     home: Quotes() ,
   ));
 }
